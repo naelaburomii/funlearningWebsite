@@ -1,0 +1,72 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-container {
+  width: 350px;
+  margin: 100px auto;
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 24px;
+  font-size: 24px;
+}
+
+.mb-3 {
+  margin-bottom: 15px;
+  text-align: right;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4facfe;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #00a3fe;
+}
+
+#message {
+  margin-top: 15px;
+  font-size: 14px;
+  color: red;
+}
+
+.error-message{
+  color: red; /* צבע אדום */
+  font-size: 0.8em; /* גודל גופן קטן יותר */
+  margin-top: 5px; /* מרווח מעלה */
+}

@@ -6,12 +6,25 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "mongoose": "^8.4.3",
+=======
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.5",
+>>>>>>> 692547d (Login and navigate to user Dashboard)
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.2.1",
     "react-responsive": "^10.0.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.24.0",
+=======
+    "react-router-dom": "^6.24.1",
+>>>>>>> 692547d (Login and navigate to user Dashboard)
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -40,6 +53,15 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "nodemon": "^3.1.4"
   }
 }
+=======
+    "@babel/eslint-parser": "^7.24.7",
+    "eslint-webpack-plugin": "^4.2.0",
+    "nodemon": "^3.1.4",
+    "webpack": "^5.92.1"
+  }
+}
+>>>>>>> 692547d (Login and navigate to user Dashboard)
